@@ -1,0 +1,6 @@
+Why pytest
+- Simplified syntax
+Rich assertion introspection
+powerfull Fixture system
+compatibility
+Extension
